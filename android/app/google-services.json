@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968358300997",
+    "project_id": "atelier4-y-eassi-iir5g2",
+    "storage_bucket": "atelier4-y-eassi-iir5g2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968358300997:android:11ed2e2f2d049a3535c22c",
+        "android_client_info": {
+          "package_name": "com.example.atelier4_y_esslassi_iir5g2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzl5J2_fZVEWd2PGT3OU4q3ugUaADSrQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

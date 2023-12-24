@@ -1,0 +1,29 @@
+name: atelier4_y_esslassi_iir5g2
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  cloud_firestore: ^4.13.1
+  firebase_auth: ^4.13.0
+  firebase_core: ^2.22.0
+  firebase_storage: ^11.5.2
+  firebase_ui_auth: ^1.7.0
+  flutter:
+    sdk: flutter
+  flutter_slidable: ^3.0.1
+  image_picker: ^1.0.5
+  uuid: ^4.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
